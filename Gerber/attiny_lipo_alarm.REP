@@ -2,49 +2,6 @@
 FileName = attiny_lipo_alarm.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : attiny_lipo_alarm.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : attiny_lipo_alarm.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D26
-    D41
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : attiny_lipo_alarm.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : attiny_lipo_alarm.GTS
 
@@ -108,6 +65,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : attiny_lipo_alarm.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D26
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : attiny_lipo_alarm.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : attiny_lipo_alarm.GBL
 
@@ -122,5 +111,16 @@ Used DCodes :
     D38
     D39
     D40
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : attiny_lipo_alarm.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
 *************************************************************
 

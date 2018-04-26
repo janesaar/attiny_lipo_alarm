@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: attiny_lipo_alarm.PcbDoc   21.04.2018  14:21:07
+NCDrill File Report For: attiny_lipo_alarm.PcbDoc   23.04.2018  12:53:24
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : attiny_lipo_alarm.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             35        PTH        0.00inch (0.00mm)
+T1      16mil (0.4mm)                                             Round             36        PTH        0.00inch (0.00mm)
 T2      35mil (0.9mm)                                             Round             5         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              40
+Totals                                                                              41
 
 Total Processing Time (hh:mm:ss) : 00:00:00

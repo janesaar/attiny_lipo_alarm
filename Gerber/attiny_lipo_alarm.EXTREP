@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: attiny_lipo_alarm.GBR   21.04.2018  14:21:07
+Gerber File Extension Report For: attiny_lipo_alarm.GBR   23.04.2018  12:53:24
 ------------------------------------------------------------------------------------------
 
 
@@ -9,8 +9,8 @@ Layer Extension     Layer Description
 .GTL                Top Layer                               
 .GTO                Top Overlay                             
 .GTS                Top Solder                              
-.GBS                Bottom Solder                           
 .GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------

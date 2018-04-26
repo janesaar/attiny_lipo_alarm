@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=attiny_lipo_alarm.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -59,13 +59,13 @@ Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for attiny_lipo_alarm
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=attiny_lipo_alarm.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -84,7 +84,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=.\
+OutputFilePath3=C:\Users\Jane\Desktop\Robot\electronics\attiny_lipo_alarm\.\
 ReleaseManaged3=0
 OutputBasePath3=.\
 OutputPathMedia3=
@@ -101,7 +101,7 @@ OpenOutput3=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=.\
+RelativeOutputPath3=C:\Users\Jane\Desktop\Robot\electronics\attiny_lipo_alarm\.\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
