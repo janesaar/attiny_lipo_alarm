@@ -1,0 +1,8 @@
+ 1. https://github.com/rlogiacco/BatterySense
+	 [Simulation from above link](http://www.falstad.com/circuit/circuitjs.html?cct=$+1+0.000005+12.050203812241895+50+5+50%0Aw+352+224+352+176+1%0Af+272+240+352+240+1+1.5+0.02%0Ar+272+240+272+176+0+22000%0Aw+272+176+352+176+0%0AL+192+256+160+256+0+0+false+5+0%0Ag+352+352+352+368+0%0At+240+256+272+256+0+1+-8.39999999517672+2.384799999685798e-10+100%0Ag+272+336+272+368+0%0Ar+240+256+192+256+0+2200%0Aw+272+272+272+336+1%0Ar+352+256+352+304+0+1000%0Ar+352+304+352+352+0+1000%0Aw+352+304+448+304+2%0Av+496+352+496+176+0+0+40+8.4+0+0+0.5%0Aw+352+176+496+176+0%0Ag+496+352+496+368+0%0Ax+142+235+178+238+4+18+ACT%0Ax+392+328+453+331+4+18+SENSE%0Ax+530+271+563+274+4+18+BAT%0Ao+1+64+0+4099+10+0.00009765625+0+2+1+3%0A)
+ 2. https://electronics.stackexchange.com/questions/64490/low-current-battery-monitoring?noredirect=1&lq=1
+ 3. http://fettricks.blogspot.com/2014/01/reducing-voltage-divider-load-to-extend.html
+ 4. https://jeelabs.org/2013/05/16/measuring-the-battery-without-draining-it/
+ 5. https://jeelabs.org/2013/05/17/zero-powe-battery-measurement/
+ 6. https://jeelabs.org/2013/05/18/zero-power-measurement-part-2/
+    [Simulation created based on above link](http://www.falstad.com/circuit/circuitjs.html?cct=$+1+0.000005+1.2182493960703473+89+5+43%0Af+272+128+208+128+1+1.5+0.02%0Ar+272+64+272+128+0+10000%0Ar+208+144+208+208+0+1000%0Ar+208+208+208+272+0+1000%0Ac+272+128+336+128+0+1.0000000000000001e-7+15.999331799221725%0Ag+208+272+208+304+0%0AR+208+32+208+0+0+0+40+16+0+0+0.5%0Aw+272+64+208+64+0%0Aw+208+64+208+32+0%0Aw+208+64+208+112+0%0Aw+208+208+304+208+2%0AL+336+128+384+128+0+0+false+5+0%0Ao+10+4+0+4099+10+0.00009765625+0+2+10+3%0A)
